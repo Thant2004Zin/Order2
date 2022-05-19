@@ -1,0 +1,19 @@
+$body-bg : #e0e8ff;
+$primary : #382ae1;
+$secondary : #f8f9fe;
+$btn-padding-y : 12px;
+$card-border-radius: 30px;
+$btn-border-radius: 12px;
+
+$font-family-sans-serif:'Red Hat Display', sans-serif;;
+
+@import "node_modules/bootstrap/scss/bootstrap";
+@import "node_modules/animate.css/animate.css";
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+p{
+  font-size: 16px;
+}
+.Change-BG{
+  border-radius: 12px;
+}
